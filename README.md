@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I’m Ankit Khandelwal
+💡 About Me
+I’m a self-driven tech enthusiast passionate about web development, crafting real-world solutions, and exploring the possibilities of AI.
 
-<!--
-**Ankit-khandelwal04/Ankit-khandelwal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have strong problem-solving and project management skills. I thrive in dynamic environments, adapt quickly to new challenges, and enjoy collaborating as part of a team to bring ideas to life.
 
-Here are some ideas to get you started:
+🌐 Connect with Me
+📧 Email: ankitkhandelwal1034@gmail.com
+🔗 LinkedIn: in.linkedin.com/in/ankit-khandelwal-002474295
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Languages:
+C C++ Java Python JavaScript
+
+Web & Frameworks:
+HTML5 CSS3 React.js Node.js Spring Boot
+
+Tools & Platforms:
+VS Code IntelliJ IDEA Git GitHub
+
+📊 GitHub Stats
+
+
+⭐ Let’s build something amazing together!
