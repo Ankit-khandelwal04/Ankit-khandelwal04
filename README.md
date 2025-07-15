@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+I'm+Ankit+Khandelwal;Web+Developer;Tech+Explorer" alt="Typing SVG" />
+  <h1>Hi I'm Ankit Khandelwal</h1>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Web+Developer;Tech+Explorer" alt="Typing SVG" />
+</p>
+
 
 ## 📝 About Me:
 I am a self-driven **tech enthusiast** passionate about web development, problem solving, and building real-world solutions.  
