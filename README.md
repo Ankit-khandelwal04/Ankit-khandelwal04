@@ -42,15 +42,13 @@ Adaptable and a great team player, always eager to learn and contribute.
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-khandelwal04&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankit's GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ankit-khandelwal04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-khandelwal04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-khandelwal04&show_icons=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" height="160" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-khandelwal04&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" height="160" /> 
+</p> 
+<p align="center"> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ankit-khandelwal04&theme=black-ice&hide_border=false&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="160" /> 
+</p>
 
 ---
 
